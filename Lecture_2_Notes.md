@@ -94,4 +94,5 @@ But it does capture complex patters beyond word similarity.
 
 The best of two methods is GloVE
 
-in this method. we run the method on the co-occurence matrix instead of windows
+in this method. we run the method on the co-occurence matrix instead of word windows.
+So it has fast training and scalable for huge corpus data sizeand also with good performanc ewith small corpus and small vectors.
